@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**sophiepavlova/sophiepavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌟 **About me:**  
+  I live in Vancouver and have a passion for photography.  
 
-Here are some ideas to get you started:
+- 📸 **See my work:**  
+  [Check out my photography portfolio](https://pavlova.smugmug.com/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **What I’m working on:**  
+  Project #3, **'Page Loader'**, as part of my Hexlet coursework.  
+
+- 🌱 **What I’m learning:**  
+  Asynchronous programming and network requests in Hexlet School.  
+
+Feel free to connect with me here on GitHub or through my photography portfolio!
+
