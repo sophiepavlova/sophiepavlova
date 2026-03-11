@@ -7,10 +7,10 @@
   [Check out my photography portfolio](https://pavlova.smugmug.com/)  
 
 - 🔭 **What I’m working on:**  
-  Project #3, **'Page Loader'**, as part of my Hexlet coursework.  
+  Deveral personal project  
 
 - 🌱 **What I’m learning:**  
-  Asynchronous programming and network requests in Hexlet School.  
+  React Course from Udemy  
 
 Feel free to connect with me here on GitHub or through my photography portfolio!
 
