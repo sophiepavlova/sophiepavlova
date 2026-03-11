@@ -7,7 +7,7 @@
   [Check out my photography portfolio](https://pavlova.smugmug.com/)  
 
 - 🔭 **What I’m working on:**  
-  Deveral personal project  
+  I am working on several personal projects.  
 
 - 🌱 **What I’m learning:**  
   React Course from Udemy  
